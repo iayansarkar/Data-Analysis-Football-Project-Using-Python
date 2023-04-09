@@ -15,10 +15,12 @@ This project is a step-by-step guide to perform football analysis project using 
 
 1. Install Python 3.x from the [official website](https://www.python.org/downloads/).
 2. Open Command Prompt `cmd` terminal
-3. Install Jupyter Notebook by running `pip install jupyter` in the cmd terminal.
-4. Type `python --version` to check python already install or not and version updated or not.
-5. Check “Preferred Installer Program” `pip` to Type `pip --version`
-6. To install Jupyterlab ``
+3. Type `python --version` to check python already install or not and version updated or not.
+4. Check “Preferred Installer Program” `pip` to Type `pip --version`
+5. Install Jupyterlab by running `pip install jupyterlab` in the cmd terminal.
+6. Install Jupyter Notebook by running `pip install jupyter notebook` in the cmd terminal.
+7. After complete "Jupyter Notebook" downloading you will see path file location in the terminal, other pc terminal vary different path file location you can copy the path file location and paste the new line then hit enter, in my case path file is:  `C:\Users\ayans\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip`
+8. Create 
 7. Install the necessary packages by running `pip install pandas` , `pip install numpy` , `pip install matplotlib` , `pip install seaborn` in the cmd terminal.
 
 
