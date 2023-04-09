@@ -15,7 +15,7 @@ This project is a step-by-step guide to perform football analysis project using 
 
 1. Install Python 3.x from the [official website](https://www.python.org/downloads/).
 2. Install Jupyter Notebook by running `pip install jupyter` in the terminal.
-3. Install the necessary packages by running `pip install pandas`, `pip install numpy`, `pip install matplotlib`, `pip install seaborn` in the terminal.
+3. Install the necessary packages by running `pip install pandas` , `pip install numpy` , `pip install matplotlib` , `pip install seaborn` in the terminal.
 
 
 ## Step 1
