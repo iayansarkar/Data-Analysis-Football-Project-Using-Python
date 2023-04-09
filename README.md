@@ -18,7 +18,9 @@ This project is a step-by-step guide to perform football analysis project using 
 3. Install the necessary packages by running `pip install pandas numpy matplotlib seaborn` in the terminal.
 
 
+## Step 1
 
+- ![Alt text](c:/Users/ayans/Downloads/Jupyter/JN-%20STEP%201.png)
 
 
 
