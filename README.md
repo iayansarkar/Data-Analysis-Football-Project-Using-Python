@@ -20,7 +20,16 @@ This project is a step-by-step guide to perform football analysis project using 
 
 ## Step 1
 
-- ![Alt text](c:/Users/ayans/Downloads/Jupyter/JN-%20STEP%201.png)
+- Open Command Prompt `cmd` terminal
+
+## Step 2
+
+- Type `python --version` to check python already install or not and version updated or not.
+- Check “Preferred Installer Program” `pip` to Type `pip --version`
+
+## Step 3
+
+- To install Jupyterlab ``
 
 
 
