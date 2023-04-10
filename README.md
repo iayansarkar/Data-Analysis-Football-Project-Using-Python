@@ -23,7 +23,7 @@ To get started, follow these installation steps:
 6. Install Jupyter Notebook by running `pip install jupyter notebook` in the Command Prompt terminal.
 7. Once Jupyter Notebook has finished downloading, you will see the file path location in the terminal. Copy this path file location and paste it on a new line, and then hit enter. In my case, the file path is:<br>
 `C:\Users\ayans\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip`
-8. Create a folder on your desktop for this project. For example:<br> ![Desktop Folder] <img src="https://user-images.githubusercontent.com/80643467/230805087-43a0eab9-3563-4e95-a2d2-b49798e6376a.png" width="500" height="300">
+8. Create a folder on your desktop for this project. For example:<br><img src="https://user-images.githubusercontent.com/80643467/230805087-43a0eab9-3563-4e95-a2d2-b49798e6376a.png" width="800" height="300">
 9. Once you have created the desktop folder, open the folder and copy the folder path location. In my case, the folder path location is: `C:\Users\ayans\Desktop\Test_Jupyter`
 10. Paste the folder path location into the Command Prompt terminal by typing `cd C:\Users\ayans\Desktop\Test_Jupyter`
 11. After pasting the folder path location, the path will change to:<br> ![JN- STEP 7](https://user-images.githubusercontent.com/80643467/230805177-300bda0a-ef73-40cf-a17c-8167e8204684.png)
