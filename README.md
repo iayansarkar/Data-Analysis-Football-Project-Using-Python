@@ -20,12 +20,12 @@ This project is a step-by-step guide to perform football analysis project using 
 5. Install Jupyterlab by running `pip install jupyterlab` in the cmd terminal.
 6. Install Jupyter Notebook by running `pip install jupyter notebook` in the cmd terminal.
 7. After complete "Jupyter Notebook" downloading you will see path file location in the terminal, other pc terminal vary different path file location you can copy the path file location and paste the new line then hit enter, in my case path file is:  `C:\Users\ayans\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip`
-8. Create folder in Desktop, in my case I have create folder in Desktop, here are example: [image]
+8. Create folder in Desktop, in my case I have create folder in Desktop, here are example: ![Desktop Folder](https://user-images.githubusercontent.com/80643467/230805087-43a0eab9-3563-4e95-a2d2-b49798e6376a.png)
 9. After create the desktop folder then open folder and copy folder path location, in my case my folder path location is: `C:\Users\ayans\Desktop\Test_Jupyter`
 10. When complete copy from folder path location then paste in the cmd terminal with `cd  C:\Users\ayans\Desktop\Test_Jupyter`
-11. After paste folder path location then path will be change this type: [image]
+11. After paste folder path location then path will be change this type: ![JN- STEP 7](https://user-images.githubusercontent.com/80643467/230805177-300bda0a-ef73-40cf-a17c-8167e8204684.png)
 12. Type `jupyter notebook` then hit enter. You can see open the browser new tab and display Jupyter Notebook dashboard.
-13. When you see Jupyter Notebook Dashboard you can click with following option from above image
+13. When you see Jupyter Notebook Dashboard you can click with following option from above image ![JN- STEP 10](https://user-images.githubusercontent.com/80643467/230805220-9d2bea58-36c6-45b7-986f-447243425ab1.png)
 
 ## Python Programming
 
@@ -42,4 +42,7 @@ Finally, we will visualize the data to make it more accessible and understandabl
 This project provides a step-by-step guide to perform football analysis using Python. By following these steps, you will be able to collect, clean, manipulate, and visualize football data. Have fun exploring the world of football analytics!
 
 ## Thank you for watching this project.
+
+
+
 
