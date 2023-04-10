@@ -20,21 +20,18 @@ This project is a step-by-step guide to perform football analysis project using 
 5. Install Jupyterlab by running `pip install jupyterlab` in the cmd terminal.
 6. Install Jupyter Notebook by running `pip install jupyter notebook` in the cmd terminal.
 7. After complete "Jupyter Notebook" downloading you will see path file location in the terminal, other pc terminal vary different path file location you can copy the path file location and paste the new line then hit enter, in my case path file is:  `C:\Users\ayans\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip`
-8. Create 
-7. Install the necessary packages by running `pip install pandas` , `pip install numpy` , `pip install matplotlib` , `pip install seaborn` in the cmd terminal.
+8. Create folder in Desktop, in my case I have create folder in Desktop, here are example: [image]
+9. After create the desktop folder then open folder and copy folder path location, in my case my folder path location is: `C:\Users\ayans\Desktop\Test_Jupyter`
+10. When complete copy from folder path location then paste in the cmd terminal with `cd  C:\Users\ayans\Desktop\Test_Jupyter`
+11. After paste folder path location then path will be change this type: [image]
+12. Type `jupyter notebook` then hit enter. You can see open the browser new tab and display Jupyter Notebook dashboard.
+13. When you see Jupyter Notebook Dashboard you can click with following option from above image
 
+## Python Programming
 
-## Data Collection
-
-In this step, we will collect football data from the [Football Data API](https://www.football-data.org/). You will need to sign up for a free API key, which will allow you to make up to 10,000 requests per day.
-
-## Data Cleaning
-
-Once we have collected the data, we need to clean it to ensure that it is usable for analysis. This includes removing duplicates, dealing with missing values, and converting data types.
-
-## Data Manipulation
-
-In this step, we will manipulate the data to extract useful insights. This includes calculating statistics, aggregating data, and merging datasets.
+1. Let's start with football data analysis using python.
+2. Install the necessary packages by running `pip install pandas` , `pip install numpy` , `pip install matplotlib` , `pip install seaborn` in the cmd terminal.
+3. 
 
 ## Data Visualization
 
@@ -43,4 +40,6 @@ Finally, we will visualize the data to make it more accessible and understandabl
 ## Conclusion
 
 This project provides a step-by-step guide to perform football analysis using Python. By following these steps, you will be able to collect, clean, manipulate, and visualize football data. Have fun exploring the world of football analytics!
+
+## Thank you for watching this project.
 
