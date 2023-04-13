@@ -1,4 +1,4 @@
-# Football Data Analysis Project Using Python
+# Data Analysis Football Project Using Python
 
 This project serves as a comprehensive guide to performing football analysis using Python. It covers data collection, cleaning, manipulation, and visualization to gain insights into football data.
 
