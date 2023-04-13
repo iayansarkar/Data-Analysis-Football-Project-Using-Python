@@ -2,6 +2,10 @@
 
 This project serves as a comprehensive guide to performing football analysis using Python. It covers data collection, cleaning, manipulation, and visualization to gain insights into football data.
 
+## Live Project Demo
+
+You can view my live project demo: https://youtu.be/_7Q9iiH2A10
+
 ## Requirements
 
 To successfully run this project, you will need the following:
@@ -40,9 +44,6 @@ To begin football data analysis with Python, follow these steps:
 
 Finally, we will visualize the data to make it more accessible and understandable. This includes creating plots, charts, and graphs.
 
-## Live Project Demo
-
-You can view my live project demo: 
 
 ## Conclusion
 
