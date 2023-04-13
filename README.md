@@ -40,6 +40,10 @@ To begin football data analysis with Python, follow these steps:
 
 Finally, we will visualize the data to make it more accessible and understandable. This includes creating plots, charts, and graphs.
 
+## Live Project Demo
+
+You can view my live project demo: 
+
 ## Conclusion
 
 This project provides a comprehensive guide to performing football analysis using Python. By following these steps, you will be able to collect, clean, manipulate, and visualize football data. Enjoy exploring the world of football analytics!
