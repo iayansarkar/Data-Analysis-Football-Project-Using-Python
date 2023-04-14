@@ -319,5 +319,7 @@ This project provides a comprehensive guide to performing data analysis football
 
 ## Thank you for watching this project.
 
-
+---
+![output_9_0](https://user-images.githubusercontent.com/80643467/231930604-36dfe3ce-3db1-4662-961d-39be5c99efed.png)
+---
 
