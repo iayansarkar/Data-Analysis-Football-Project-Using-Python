@@ -40,7 +40,7 @@ To get started, follow these installation steps:
 To begin football data analysis with Python, follow these steps:
 
 Step 1:
-```python
+````python
 import foobar
 
 # returns 'words'
@@ -51,7 +51,7 @@ foobar.pluralize('goose')
 
 # returns 'phenomenon'
 foobar.singularize('phenomena')
-``` 
+```` 
 
 ## Data Visualization
 
