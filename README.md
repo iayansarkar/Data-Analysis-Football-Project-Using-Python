@@ -35,6 +35,23 @@ To get started, follow these installation steps:
 13. Type `jupyter notebook` and hit enter. You will see a new tab open in your browser displaying the Jupyter Notebook dashboard.
 14. Click on the following options to get started, as shown in the image below:<br><br> ![JN- STEP 10](https://user-images.githubusercontent.com/80643467/230805220-9d2bea58-36c6-45b7-986f-447243425ab1.png)<br><br>
 
+## Jupyter Notebook - Python Programming
+
+To begin football data analysis with Python, follow these steps:
+
+Step 1:
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+``` 
 
 ## Data Visualization
 
