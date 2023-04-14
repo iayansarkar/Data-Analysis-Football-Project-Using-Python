@@ -318,9 +318,3 @@ Finally, we will visualize the data to make it more accessible and understandabl
 This project provides a comprehensive guide to performing data analysis football using Python. By following these steps, you will be able to collect, clean, manipulate, and visualize football data. Enjoy exploring the world of football data analytics!
 
 ## Thank you for watching this project.
-
-```
-![output_9_0](https://user-images.githubusercontent.com/80643467/231930604-36dfe3ce-3db1-4662-961d-39be5c99efed.png)
-
-```
-
