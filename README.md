@@ -35,10 +35,6 @@ To get started, follow these installation steps:
 13. Type `jupyter notebook` and hit enter. You will see a new tab open in your browser displaying the Jupyter Notebook dashboard.
 14. Click on the following options to get started, as shown in the image below:<br><br> ![JN- STEP 10](https://user-images.githubusercontent.com/80643467/230805220-9d2bea58-36c6-45b7-986f-447243425ab1.png)<br><br>
 
-## Python Programming
-
-To begin football data analysis with Python, follow these steps:
-1. 
 
 ## Data Visualization
 
@@ -47,7 +43,7 @@ Finally, we will visualize the data to make it more accessible and understandabl
 
 ## Conclusion
 
-This project provides a comprehensive guide to performing football analysis using Python. By following these steps, you will be able to collect, clean, manipulate, and visualize football data. Enjoy exploring the world of football analytics!
+This project provides a comprehensive guide to performing data analysis football using Python. By following these steps, you will be able to collect, clean, manipulate, and visualize football data. Enjoy exploring the world of football data analytics!
 
 ## Thank you for watching this project.
 
